@@ -21,4 +21,11 @@
 ::selection{
   color: blue;
   background: black;
+  
+}
+@media screen{
+#yt {
+  width:890;
+}
+  
 }
