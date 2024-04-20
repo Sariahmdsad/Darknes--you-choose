@@ -40,3 +40,4 @@ function lo() {
     mmm.innerText = " تشرب مشويات ";
   }
 }
+alert("للجوال وبس")
